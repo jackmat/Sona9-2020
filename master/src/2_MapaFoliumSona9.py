@@ -5,7 +5,8 @@ Created on Sat May 16 12:34:26 2020
 @author: Carles
 """
 
-
+import os
+os.chdir("C:/Users/Carles/Desktop/DatathonGithub/Sona9-2020/master")
 import folium
 import pandas as pd
 from conf import paths
@@ -39,8 +40,8 @@ def main():
            html=""" <h1> """+row['NomdelGrup']+"""</h1><br>
                     Estil: """+ row['Estil'] + """
                     <p>
-                    <code>
-                        Youtube Video: """+row['URLvideoYoutube']+"""
+                    <code>Youtube Video: <a href="url">"""+row['URLvideoYoutube']+"""</a>
+                        
                     </code>
                     </p>
                     """
