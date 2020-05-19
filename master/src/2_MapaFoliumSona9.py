@@ -72,13 +72,15 @@ def main():
     #2. Locate each band on the map by lat lon using and icon of a guitar
     icon_url = "https://img.icons8.com/windows/32/000000/progressive-rock.png"
     for index, row in df.iterrows():
+           
            tooltip = row['NomdelGrup']
            icon = folium.features.CustomIcon(icon_url,icon_size=(28, 30))
            html="<h1> "+row['NomdelGrup']+"</h1><br> Estil: "+ row['Estil'] + \
-                    "<p><code>Youtube Video: <a href="+\
-                    row['URLvideoYoutube']+"target='_blank'>"+\
+                    "<p><code>Youtube Video: <a href='"+\
+                    row['URLvideoYoutube']+"' target='_blank'>"+\
                     row['URLvideoYoutube']+"</a>"+\
                     "</code></p>"
+                          
                     
            iframe = folium.IFrame(html=html, width=400, height=150)
            popup = folium.Popup(iframe, max_width=1000)
