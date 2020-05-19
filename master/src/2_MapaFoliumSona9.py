@@ -11,7 +11,7 @@ import folium
 import folium.plugins
 import folium
 import pandas as pd
-from conf import paths
+#from conf import paths
 from folium.features import *
 
 
@@ -75,7 +75,9 @@ def main():
            tooltip = row['NomdelGrup']
            icon = folium.features.CustomIcon(icon_url,icon_size=(28, 30))
            html="<h1> "+row['NomdelGrup']+"</h1><br> Estil: "+ row['Estil'] + \
-                    "<p><code>Youtube Video: <a href='url'>"+row['URLvideoYoutube']+"</a>"+\
+                    "<p><code>Youtube Video: <a href="+\
+                    row['URLvideoYoutube']+"target='_blank'>"+\
+                    row['URLvideoYoutube']+"</a>"+\
                     "</code></p>"
                     
            iframe = folium.IFrame(html=html, width=400, height=150)

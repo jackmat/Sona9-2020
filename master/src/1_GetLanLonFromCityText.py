@@ -8,7 +8,7 @@ Created on Mon May 18 16:26:46 2020
 import pandas as pd
 import numpy as np
 from geopy.geocoders import Nominatim
-from conf import paths
+#from conf import paths
 
 def PopulationLatLon(Mycities):
     """

@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 # My file calls
-from conf import paths
+#from conf import paths
 
 def RetrievingAllGroups(numpag):
     """
@@ -66,7 +66,7 @@ def AllInfoInTable(LinksList):
         Youtube Link
     The output is a pd.Dataframe()    
     """
-    BoolCanso = False
+
     NomDelGrup_List =   []
     Estil_List      =   []
     Poblacio_List   =   []
@@ -88,15 +88,16 @@ def AllInfoInTable(LinksList):
         # Taking Video
         for link in soup.find_all('a', href=True):
             if "www.youtube.com" in link['href']:
-                BoolCanso = True
                 Canso_list.append(link['href'])
-        
-        # Accounting for the fact that can be empty
-        if BoolCanso == True:
-            BoolCanso = False
+                break;
+        if len(NomDelGrup_List)!=len(Canso_list):
+            # Accounting for the fact that can be empty
             Canso_list.append("None")
         
-        
+    print("NomDelGrup_List:"+str(len(NomDelGrup_List)))
+    print("Estil_List:"+str(len(Estil_List)))    
+    print("Poblacio_List:"+str(len(Poblacio_List)))
+    print("Canso_list:"+str(len(Canso_list)))    
     TaulaFinal = pd.DataFrame(list(zip(       NomDelGrup_List, 
                                               Estil_List, 
                                               Poblacio_List,
