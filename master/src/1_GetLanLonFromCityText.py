@@ -4,11 +4,11 @@ Created on Mon May 18 16:26:46 2020
 
 @author: Carles
 """
-
+import os
 import pandas as pd
 import numpy as np
 from geopy.geocoders import Nominatim
-#from conf import paths
+from config import paths
 
 def PopulationLatLon(Mycities):
     """
@@ -97,15 +97,14 @@ def dfTreatment2(df):
 def main ():
     ############### Main Paths #########################
     # Paths
-    cwd="C:/Users/Carles/Desktop/DatathonGithub/Sona9-2020/master"
     Scrapping_path = paths['Scrap_path']    
     LatLon_path = paths['LatLon_path']    
     
     InputExcel_FileName= "Sona9Grups.csv"
     OutputExcel_FileName= "Sona9GrupsWithLatLon.csv"    
     
-    Reading_path = cwd+"/"+ Scrapping_path  + "/" + InputExcel_FileName
-    Saving_path  = cwd+"/"+ LatLon_path     + "/" + OutputExcel_FileName
+    Reading_path = os.path.join(Scrapping_path,InputExcel_FileName)
+    Saving_path  = os.path.join(LatLon_path,OutputExcel_FileName)
     ############### Work Order #########################
     #0. Reading Dataframe    
     df = pd.read_csv(Reading_path,encoding='utf-8-sig')

@@ -4,6 +4,10 @@ Created on Sat May 16 12:34:26 2020
 
 @author: Carles
 """
+
+
+import os
+os.chdir("C:/Users/Carles/Desktop/DatathonGithub/Sona9-2020/master/src")
 import sys
 sys.path.insert(0,'folium')
 
@@ -11,13 +15,10 @@ import folium
 import folium.plugins
 import folium
 import pandas as pd
-#from conf import paths
+from config import paths
 from folium.features import *
 
 
-
-import os
-os.chdir("C:/Users/Carles/Desktop/DatathonGithub/Sona9-2020/master")
          
 class DivIcon(MacroElement):
     def __init__(self, html='', size=(30,30), anchor=(0,0), style=''):
@@ -51,20 +52,19 @@ class DivIcon(MacroElement):
 def main():
     ############### Main Paths #########################
     # Paths
-    cwd="C:/Users/Carles/Desktop/DatathonGithub/Sona9-2020/master"
-    
+   
     LatLon_path = paths['LatLon_path']    
     Graphic_path = paths['Map_path']
     
     InputExcel_FileName= "Sona9GrupsWithLatLon.csv"    
     OutputMap_htmlName = "Map_Sona9_2020.html"
     
-    Reading_path   = cwd+ "/" + LatLon_path      + "/" + InputExcel_FileName
-    OutputMap_Path = cwd+ "/" + Graphic_path     + "/" + OutputMap_htmlName
+    Reading_path   = os.path.join(LatLon_path, InputExcel_FileName)
+    OutputMap_Path = os.path.join(Graphic_path, OutputMap_htmlName)
     
     ############### Work Order #########################
     #0. Reading Dataframe 
-    df = pd.read_csv(Reading_path)
+    df = pd.read_csv(Reading_path, encoding='utf-8-sig')
     #1. Creating a Map using Folium
     map_ = folium.Map(location=[df.iloc[0]['lat'], df.iloc[0]['lon']], 
                       tiles='OpenStreetMap',
@@ -122,24 +122,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-# =============================================================================
-# #Crear el listado de regiones de Italia
-# communities_geo = r'italy-provinces.geojson'
-# 
-# #Representar el mapa choropleth con número de casos por provincia
-# choromap_.choropleth(
-#     geo_data=communities_geo,
-#     data=df_gr,
-#     columns=['province', 'total_cases'],
-#     key_on='feature.properties.name',
-#     fill_color='BuPu', 
-#     fill_opacity=1, 
-#     line_opacity=1,
-#     legend_name='COVID-19 Italy',
-#     smooth_factor=0)
-# #Visualizar el mapa
-# choromap_
-# 
-# 
-# choromap_.save(path_read +"mymap.html")
-# =============================================================================

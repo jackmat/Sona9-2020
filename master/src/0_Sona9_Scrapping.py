@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 # My file calls
-#from conf import paths
+from config import paths
 
 def RetrievingAllGroups(numpag):
     """
@@ -122,11 +122,9 @@ def MainDownload_Sona9(pathtosave, npags = 18):
 
 def main():    
     ############### Main Paths #########################
-    cwd="C:/Users/Carles/Desktop/DatathonGithub/Sona9-2020/master"
     Scrapping_path = paths['Scrap_path']    
     OuputExcel_FileName= "Sona9Grups.csv"
-    
-    SavingPath = cwd+"/"+Scrapping_path+"/"+OuputExcel_FileName
+    SavingPath = os.path.join(Scrapping_path,OuputExcel_FileName)
     
     ############### Work Order #########################
     # Executing MainDownload
