@@ -6,6 +6,6 @@ Created on Mon May 18 18:18:34 2020
 """
 
 paths = {
-	'Scrap_path': "../data//_ScrappingWebSona9",
+	'Scrap_path': "../data/0_ScrappingWebSona9",
 	'LatLon_path': "../data/1_DataWrangling",
     'Map_path': "../data/2_Mapa"}
