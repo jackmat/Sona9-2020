@@ -10,6 +10,10 @@ import numpy as np
 from geopy.geocoders import Nominatim
 from config import paths
 
+def ManualAddings(df):
+    df.loc[df.NomdelGrup =="Lluna Plena", 'URLvideoYoutube']= "https://youtu.be/bxksKGbewis"
+    return df
+
 def PopulationLatLon(Mycities):
     """
     Given a list of Cities, it Outputs its region, latitude and longitude
@@ -131,10 +135,13 @@ def main ():
     #4. Dataset Treatment
     df3 = StringTreatment(df2)
     df4 = dfTreatment2(df3)
-
+    
+    #Manual Changes
+    df5 = ManualAddings(df4)
     # Output
-    df4.to_csv(Saving_path, encoding='utf-8-sig')
+    df5.to_csv(Saving_path, encoding='utf-8-sig')
 
 if __name__ == '__main__':
     main()
     
+  
