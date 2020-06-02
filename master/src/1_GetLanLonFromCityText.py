@@ -68,9 +68,16 @@ def StringTreatment(df):
     df.loc[df.Region ==" València / Valencia", 'Region'] = "Comunitat Valenciana"
     df.loc[df.Region ==" Alacant / Alicante", 'Region'] = "Comunitat Valenciana"
     df.loc[df.Region ==" Comunitat Valenciana", 'Region'] = "Comunitat Valenciana"
-    
+    df.loc[df.Region ==" Castelló / Castellón", 'Region'] = "Comunitat Valenciana"
+
     df.loc[df.Region =="Palma", 'Region'] = "Illes Balears"
     df.loc[df.Region ==" Illes Balears", 'Region'] = "Illes Balears"
+    df.loc[df.Region ==" Menorca", 'Region'] = "Illes Balears"
+    df.loc[df.Region ==" Eivissa", 'Region'] = "Illes Balears"
+    df.loc[df.Region =="  Pla de Mallorca", 'Region'] = "Illes Balears"
+    df.loc[df.Region =="  Llevant", 'Region'] = "Illes Balears"
+
+
     return df
 
 
@@ -108,7 +115,10 @@ def main ():
     ############### Work Order #########################
     #0. Reading Dataframe    
     df = pd.read_csv(Reading_path,encoding='utf-8-sig')
+    # Canvis Manuals
     df.Poblacio.replace({'Vallls (Alt Camp)':'Valls (Alt Camp)'}, inplace = True)
+    df.Poblacio.replace({'Barcelona (Alt Penedès)':'Vilafranca del Penedès (Alt Penedès)'}, inplace = True)
+
     #1. Reading Poblacio column
     Mycities = df.Poblacio
 
@@ -127,3 +137,4 @@ def main ():
 
 if __name__ == '__main__':
     main()
+    
