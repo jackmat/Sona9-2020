@@ -12,6 +12,21 @@ from config import paths
 
 def ManualAddings(df):
     df.loc[df.NomdelGrup =="Lluna Plena", 'URLvideoYoutube']= "https://youtu.be/bxksKGbewis"
+    df.loc[df.NomdelGrup =="Sabana", 'URLvideoYoutube']= "https://youtu.be/lSzoXbo4VSs"
+    df.loc[df.NomdelGrup =="Tomeu Juan Fuster", 'URLvideoYoutube']= "https://www.youtube.com/playlist?list=PLIHZApSkCjI2gbrXGX0sEdxAD38LZ5qPv"
+    df.loc[df.NomdelGrup =="Palmira", 'URLvideoYoutube']= "http://youtube.com/watch?v=oG32pvS2PCI"
+    df.loc[df.NomdelGrup =="Palmira", 'lat']= 41.2
+    df.loc[df.NomdelGrup =="Palmira", 'lon']= 2.2
+    df.loc[df.NomdelGrup =="Ideal", 'URLvideoYoutube']= "https://youtu.be/oUs8lQTz5nE"
+    df.loc[df.NomdelGrup =="Bona Ventura", 'URLvideoYoutube']= "https://youtu.be/JO_fDelmWfk"
+    df.loc[df.NomdelGrup =="Bona Ventura", 'lat']= 39.69
+    df.loc[df.NomdelGrup =="Bona Ventura", 'lon']= 2.78
+    df.loc[df.NomdelGrup =="Marèsan", 'lat']= 40.620200
+    df.loc[df.NomdelGrup =="Marèsan", 'lon']= 0.592890
+    df.loc[df.NomdelGrup =="Estiula", 'lat']= 42.196390
+    df.loc[df.NomdelGrup =="Estiula", 'lon']= 2.303340
+    
+
     return df
 
 def PopulationLatLon(Mycities):
