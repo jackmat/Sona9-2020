@@ -24,6 +24,7 @@ def PopulationLatLon(Mycities):
             print(address)
             geolocator = Nominatim(user_agent="Your_Name")
             location = geolocator.geocode(address,timeout=10000)
+            print(location)
             if location ==None: 
                 address = city.split(" ")[0]
                 geolocator = Nominatim(user_agent="Your_Name")
@@ -81,7 +82,6 @@ def dfTreatment2(df):
     It also creates the variable df.NumRegio according to the region the band is from
     """
     df["Nom_Estil"]=df["NomdelGrup"]+": " +df["Estil"]
-    df["NumRegio"]=0
     df.loc[df.Region =="Catalunya", 'NumRegio'] = 1
     df.loc[df.Region =="Comunitat Valenciana", 'NumRegio'] = 2
     df.loc[df.Region =="Illes Balears", 'NumRegio'] = 3
@@ -108,8 +108,10 @@ def main ():
     ############### Work Order #########################
     #0. Reading Dataframe    
     df = pd.read_csv(Reading_path,encoding='utf-8-sig')
+    df.Poblacio.replace({'Vallls (Alt Camp)':'Valls (Alt Camp)'}, inplace = True)
     #1. Reading Poblacio column
     Mycities = df.Poblacio
+
     #2. Getting lat & lon
     Frame = PopulationLatLon(Mycities)
     #3. Merging it with current data.frame()

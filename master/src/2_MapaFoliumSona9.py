@@ -17,7 +17,8 @@ import folium
 import pandas as pd
 from config import paths
 from folium.features import *
-
+from xml.etree import ElementTree
+from folium.plugins import MarkerCluster
 
          
 class DivIcon(MacroElement):
@@ -71,6 +72,8 @@ def main():
                       zoom_start = 6)
     #2. Locate each band on the map by lat lon using and icon of a guitar
     icon_url = "https://img.icons8.com/windows/32/000000/progressive-rock.png"
+    marker_cluster = MarkerCluster().add_to(map_)
+    marker_cluster2 = MarkerCluster().add_to(map_)
     for index, row in df.iterrows():
            
            tooltip = row['NomdelGrup']
@@ -84,11 +87,13 @@ def main():
                     
            iframe = folium.IFrame(html=html, width=400, height=150)
            popup = folium.Popup(iframe, max_width=1000)
-    
+
+
+
            folium.Marker((row['lat'], row['lon']),           
                    popup=popup,
                    tooltip=tooltip,
-                   icon=icon).add_to(map_),
+                   icon=icon).add_to(marker_cluster),
            folium.Marker(
                     (row['lat']-0.0001, row['lon']),
                     icon=DivIcon(
@@ -102,7 +107,7 @@ def main():
                         border-color: transparent;
                         text-align: right;
                         """
-                )).add_to(map_)
+                )).add_to(marker_cluster2)
            
            legend_html = """
                          <div style="position: fixed; 

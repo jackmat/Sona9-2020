@@ -1,60 +1,140 @@
 ﻿,Unnamed: 0,NomdelGrup,Estil,Poblacio,URLvideoYoutube,lat,lon,Region,Nom_Estil,NumRegio
-0,0,SATURN,Pop rock estel·lar,Barcelona (Barcelonès),None,41.385897884699475,2.1845358929321077,Catalunya,SATURN: Pop rock estel·lar,1
-1,1,Massiva Cosmo,Rock / Metall Alternatiu,Cubelles (Garraf),https://www.youtube.com/watch?v=zK48dmzNphE,41.21724481637,1.6740222553330233,Catalunya,Massiva Cosmo: Rock / Metall Alternatiu,1
-2,2,Silah Sirius,Reggae,"Barcelona, Bonastre (Baix Penedès)",None,41.37763504342648,2.1650005722585717,Catalunya,Silah Sirius: Reggae,1
-3,3,Opció 2,Rockountryfolk acústic o alguna cosa així,Barcelona (Barcelonès),https://www.youtube.com/watch?v=kDoewivrJVU,41.389936572133365,2.1794930849828855,Catalunya,Opció 2: Rockountryfolk acústic o alguna cosa així,1
-4,4,KGB / Kevin Gomez Bove,pop,tarragona  (Tarragonès),https://www.youtube.com/watch?v=P5mqugcz2Ag,41.12560326685296,1.2584383097433638,Catalunya,KGB / Kevin Gomez Bove: pop,1
-5,5,Projecte Júlia,pop rock,Barcelona (Alt Penedès),None,41.38918109073178,2.18540323267644,Catalunya,Projecte Júlia: pop rock,1
-6,6,Noel Biniés,"folkpoprockalternatiu , cançó d'autor",Hostalric (Selva),https://www.youtube.com/user/noelt8xx,41.75427342015552,2.6363347358084392,Catalunya,"Noel Biniés: folkpoprockalternatiu , cançó d'autor",1
-7,7,OnzePM,Indie Rock,Barcelona (Barcelonès),https://www.youtube.com/watch?v=CUrkACOfjsA,41.387089268427275,2.1846183396139978,Catalunya,OnzePM: Indie Rock,1
-8,8,Bouzouki dance BETA,Pink punk,Barcelona (Barcelonès),https://www.youtube.com/watch?v=_dwc3N0hINI,41.386472972823285,2.1852044456353283,Catalunya,Bouzouki dance BETA: Pink punk,1
-9,9,Enric EZ,"Cantautor, mediterrani, pop, àfrica, jazz, soul. Life music",Santa Maria de Palautordera (Vallès Oriental),https://www.youtube.com/watch?v=DJ_HFjwytts,41.69703027757035,2.4444530317003275,Catalunya,"Enric EZ: Cantautor, mediterrani, pop, àfrica, jazz, soul. Life music",1
-10,10,GUILLOLA,pop/rock alternatiu,Figueres (Alt Empordà),https://www.youtube.com/watch?v=9vQNi8v4OWg,42.26985446532366,2.9700024000079597,Catalunya,GUILLOLA: pop/rock alternatiu,1
-11,11,EL TIO LA CARETA,ROCK ALTERNATIU,VALÈNCIA (València),None,39.47765908821578,-0.3736970581546781,Comunitat Valenciana,EL TIO LA CARETA: ROCK ALTERNATIU,2
-12,12,Lia Sampai,Cançó d'autor,Cerdanyola del Vallès (Vallès Occidental),https://www.youtube.com/watch?v=6QFIM-iqUWg,41.49727249588588,2.1443348836577996,Catalunya,Lia Sampai: Cançó d'autor,1
-13,13,Sempre Amunt,Pop / musica d'Autor / Rumba,Barcelona (Barcelonès),https://www.youtube.com/watch?v=XGArQD7mGDo&feature=youtu.be,41.38497934912953,2.179342577447226,Catalunya,Sempre Amunt: Pop / musica d'Autor / Rumba,1
-14,14,Les Buch,Punk rock,Terrassa (Vallès Occidental),https://www.youtube.com/watch?v=MVMAb5uD13Y,41.572492213371156,2.018634660143897,Catalunya,Les Buch: Punk rock,1
-15,15,David Ràfols,Pop-Rock,Vilafranca del Penedès  (Alt Penedès),None,41.35273982969162,1.7063726687393386,Catalunya,David Ràfols: Pop-Rock,1
-16,16,LEGENDARI,Folk rock,Palau Solità i Plegamans (Vallès Occidental),https://www.youtube.com/watch?v=QpxKdWNQ8Iw,41.595342044357885,2.1829773218581887,Catalunya,LEGENDARI: Folk rock,1
-17,17,Eva González Menal,"personal: soul, indie, acústic, música medicina, instrumental, experimental... amb ganes sempre de provar nous sons i instruments.",Ripollet (Barcelonès),https://www.youtube.com/watch?v=-QhsjAP6Uvk,41.50821416176012,2.1655876615333955,Catalunya,"Eva González Menal: personal: soul, indie, acústic, música medicina, instrumental, experimental... amb ganes sempre de provar nous sons i instruments.",1
-18,18,Sequoia,Indie Folk,Barcelona (Barcelonès),https://www.youtube.com/watch?v=JVGNyPv_6ko,41.39059598920341,2.178140612988328,Catalunya,Sequoia: Indie Folk,1
-19,19,Punkgrossos,PunkRock,Barcelona (Barcelonès),None,41.386047632862194,2.1807017191503584,Catalunya,Punkgrossos: PunkRock,1
-20,20,FA1NA,Fusió de rumba catalana i flamenca,Mollerussa (Pla d'Urgell),https://www.youtube.com/watch?v=rAHMKxRhGng,41.642888812851716,0.8974230454046948,Catalunya,FA1NA: Fusió de rumba catalana i flamenca,1
-21,21,Carla Font,Pop,Lleida (Segrià),https://www.youtube.com/watch?v=iwpYLfVrmUM&feature=youtu.be,41.62102210031472,0.628186599371992,Catalunya,Carla Font: Pop,1
-22,22,David Martí,Pop d'autor,Castellfollit del Boix  (Bages),None,41.67109365702923,1.6852564165892636,Catalunya,David Martí: Pop d'autor,1
-23,23,Efímer,Pop,Vic (Osona),https://www.youtube.com/channel/UCd1e7TjzZGHbriMGkcbVslQ/videos,41.93262419578569,2.2551749382402484,Catalunya,Efímer: Pop,1
-24,24,Màresan,Pop-Folk,La Ràpita (Montsià),https://www.youtube.com/watch?v=DxyZHRPENcU&t=108s,39.91319854664863,-0.22982706831045008,Comunitat Valenciana,Màresan: Pop-Folk,2
-25,25,Laura Esparza i Carlos Esteban,Indie folk,València (València),https://www.youtube.com/watch?v=q6bNMrhsAeQ,39.47046736669111,-0.37066752139368203,Comunitat Valenciana,Laura Esparza i Carlos Esteban: Indie folk,2
-26,26,Marco Pompero,Indie folk mediterrani,Alcoi (Alcoi),https://www.youtube.com/watch?v=bQj2SSUvaG8,38.7019824132723,-0.4670415345099018,Comunitat Valenciana,Marco Pompero: Indie folk mediterrani,2
-27,27,Laura Jareño,"bossa nova, cantautor,  pop",Santa Coloma de Gramenet (Barcelonès),None,41.452380822230396,2.2139863988159956,Catalunya,"Laura Jareño: bossa nova, cantautor,  pop",1
-28,28,Estepes,Rockelectrocústic,Lloseta (Raiguer),None,39.724455002345294,2.8693036585468756,Illes Balears,Estepes: Rockelectrocústic,3
-29,29,Maüpas,Cançó d'autor,Sabadell (Barcelonès),https://www.youtube.com/watch?v=jSWrWouRbAg&feature=youtu.be,41.54765916896439,2.115923649332843,Catalunya,Maüpas: Cançó d'autor,1
-30,30,Saüc en flor,Folk silvestre,Pineda de Mar (Barcelonès),https://www.youtube.com/watch?v=PcAQooSjS-o&t=5s,41.63340393175611,2.697608316981924,Catalunya,Saüc en flor: Folk silvestre,1
-31,31,Vèrtex Buit,Cançó d'autor / Rock alternatiu,Golmés (Pla d'Urgell),None,41.642710438208006,0.9363405379834389,Catalunya,Vèrtex Buit: Cançó d'autor / Rock alternatiu,1
-32,32,NICÒMAC,Rock simfònic,Badalona (Barcelonès),None,41.454853570301935,2.256532145104498,Catalunya,NICÒMAC: Rock simfònic,1
-33,33,Kàfkia,Rock alternatiu,La Cellera de Ter (Selva),https://www.youtube.com/watch?v=cTfWMNNQewc,41.97539260328297,2.625590052550401,Catalunya,Kàfkia: Rock alternatiu,1
-34,34,Ego,"Rock, punk, funk, electrònica",Lleida (Segrià),https://www.youtube.com/watch?v=CJAwpfJz1co,41.618880588606,0.6323623945363845,Catalunya,"Ego: Rock, punk, funk, electrònica",1
-35,35,PROJECTE MAU,Rock - Folck,SARRIÀ DE TER - (GIRONA) (Gironès),None,42.01493330515496,2.817647596889587,Catalunya,PROJECTE MAU: Rock - Folck,1
-36,36,Koalanú,Rock Indie Reggae,Figueres (Alt Empordà),None,42.26992095771833,2.9735904388859438,Catalunya,Koalanú: Rock Indie Reggae,1
-37,37,Hugkakke,música urbana,Igualada (Anoia),https://www.youtube.com/watch?v=0tGL_gBGls8,41.58123982452032,1.6196157742437274,Catalunya,Hugkakke: música urbana,1
-38,38,Massaviu,Pop alternatiu i música urbana,Cardedeu i Sant Esteve de Palautordera (Vallès Oriental),https://www.youtube.com/channel/UCh1_-QpgzIdG-3QfCMfZi6w,41.64428676978851,2.364581809210706,Catalunya,Massaviu: Pop alternatiu i música urbana,1
-39,39,BELZONI,Pop-Rock,El Masnou (Maresme),None,41.48765725410205,2.312144722906741,Catalunya,BELZONI: Pop-Rock,1
-40,40,Kim the Mowgli,Pop Rock,Andorra la vella (Baix Camp),None,42.512824421970066,1.5277639639043905,AndorralaVella,Kim the Mowgli: Pop Rock,4
-41,41,SKÉLETORS,Rock-Metall,Girona (Gironès),https://www.youtube.com/watch?v=52r-wvlDraw,41.98737291113123,2.8199782975556222,Catalunya,SKÉLETORS: Rock-Metall,1
-42,42,Malson Atmosfèric,"Rap, Trap, Hip/Hop, Urban",Sant Julià de Ramis (Gironès),https://www.youtube.com/watch?v=Q2aeYV3Xucs,42.03303138802916,2.8570757688960824,Catalunya,"Malson Atmosfèric: Rap, Trap, Hip/Hop, Urban",1
-43,43,Pol Bordas,Música Urbana,Girona (Gironès),https://www.youtube.com/watch?v=FOZrYjFAidU,41.98551417753181,2.8203778057378552,Catalunya,Pol Bordas: Música Urbana,1
-44,44,Saüc,Rock / Rock dur / Metal alternatiu,Balaguer (Noguera),https://www.youtube.com/watch?v=c-KH8tAP0I0,41.7962037620962,0.807936865024366,Catalunya,Saüc: Rock / Rock dur / Metal alternatiu,1
-45,45,Sabana,Pop,Granollers (Vallès Oriental),None,41.61307778863695,2.2968772634888603,Catalunya,Sabana: Pop,1
-46,46,Tomeu Juan Fuster,Cançó d'autor,Palma de Mallorca (Palma),None,39.57432295338373,2.652787738604071,Illes Balears,Tomeu Juan Fuster: Cançó d'autor,3
-47,47,WAN HU,Pop-Folk-Indie,Barcelona (Barcelonès),https://www.youtube.com/watch?v=NRjW4ifxbRY,41.38304025820937,2.18382338370845,Catalunya,WAN HU: Pop-Folk-Indie,1
-48,48,Marian,Pop-rock.,Santa Eulàlia de Riuprimer (Osona),https://www.youtube.com/watch?v=weOLhEcIc-0,41.918098387053305,2.191546614961304,Catalunya,Marian: Pop-rock.,1
-49,49,Lalo Garau,Pop,Palma (Palma),https://www.youtube.com/watch?v=cG3wAXFYALU,39.57330800391342,2.6504969774520006,Illes Balears,Lalo Garau: Pop,3
-50,50,Saó,Fusió de músiques brasileres i llatines en català,Barcelona (Barcelonès),https://www.youtube.com/channel/UCPUd7QF_Jj9Xm1kqDZ2txrQ,41.38584501534775,2.18354230401229,Catalunya,Saó: Fusió de músiques brasileres i llatines en català,1
-51,51,Abast,Pop/Música de cantautor,Barcelona (Barcelonès),None,41.39032770832613,2.1848266810379857,Catalunya,Abast: Pop/Música de cantautor,1
-52,52,Cuarto Segunda,Rap amb banda,"Lleida, Les Franqueses del Vallès, l'Ametlla i La Garriga. (Vallès Oriental)",https://www.youtube.com/watch?v=4_83piwLTzw,41.61541838645504,0.629140808554394,Catalunya,Cuarto Segunda: Rap amb banda,1
-53,53,Terra Ferma,"Ska Fusió, mescla de l'ska més clàssic amb rock, reggae i hip-hop.",Reus (Baix Camp),https://www.youtube.com/watch?v=tA8Ybx56aGQ,41.16109461882538,1.1124125778220155,Catalunya,"Terra Ferma: Ska Fusió, mescla de l'ska més clàssic amb rock, reggae i hip-hop.",1
-54,54,Musclu,Pop electrònic,Barcelona (Barcelonès),https://www.youtube.com/watch?v=Wc4UkCt8xuI,41.39071958247318,2.1867818422511798,Catalunya,Musclu: Pop electrònic,1
-55,55,Pol Cortés,Pop,Sant Cugat del Vallès - Barcelona (Barcelonès),None,41.47689880156204,2.0876986724207516,Catalunya,Pol Cortés: Pop,1
-56,56,Sense Nom,Pop - Rock - Rumba catalana,Cornellà de Llobregat (Baix Llobregat),https://www.youtube.com/watch?v=AJ6WYgl16Xc,41.355993837822346,2.073345316373025,Catalunya,Sense Nom: Pop - Rock - Rumba catalana,1
-57,57,Cat Vicens,Folk acústic/cançó d'autor,Viladecans (Baix Llobregat),None,41.319046908044086,2.0176242962875386,Catalunya,Cat Vicens: Folk acústic/cançó d'autor,1
-58,58,MON,Pop-Rock,Blanes (Selva),None,41.6774250309467,2.8029457492588015,Catalunya,MON: Pop-Rock,1
+0,0,Abril & Sambola,"Pop d’autor, folk, soul",(Barcelonès),None,41.41592907185084,2.1645913209054433,Catalunya,"Abril & Sambola: Pop d’autor, folk, soul",1
+1,1,Oxitocina,World Music,Terrassa (Vallès Occidental),None,41.56570920494685,2.0165472797775714,Catalunya,Oxitocina: World Music,1
+2,2,Figaflow,"pop, electrònica, folk",Santpedor (Bages),None,41.78953011701084,1.8481028824746546,Catalunya,"Figaflow: pop, electrònica, folk",1
+3,3,E.M.P.E.,Bedroom Pop,(Vallès Oriental),None,41.6581687241243,2.332007189491185,Catalunya,E.M.P.E.: Bedroom Pop,1
+4,4,Reïna,Pop,Manacor (Llevant),None,39.57054455430228,3.214360280619559, Llevant,Reïna: Pop,0
+5,5,Joan Delapse,Acústic,Granollers (Vallès Oriental),None,41.611404421269654,2.28949589188387,Catalunya,Joan Delapse: Acústic,1
+6,6,LA MODEL,Indie Pop,Barcelona (Barcelonès),None,41.383210388512595,2.181800546777595,Catalunya,LA MODEL: Indie Pop,1
+7,7,J del Fosc,Cantautor,Barcelona (Barcelonès),None,41.38400409178923,2.1821297890099105,Catalunya,J del Fosc: Cantautor,1
+8,8,Joan Blau,Cançó d'autor,Balaguer (Noguera),None,41.793446153375186,0.8101574052527013,Catalunya,Joan Blau: Cançó d'autor,1
+9,9,Estiula,Pop-rock,Ripol (Ripollès),https://www.youtube.com/watch?v=yuWuTRi2OMk,40.04648385813913,-1.0851163683607254,Comunitat Valenciana,Estiula: Pop-rock,2
+10,10,Bataille,Cançó d´autor,Alaró (Mallorca)  (Raiguer),None,39.71164258931276,2.798047631851139,Illes Balears,Bataille: Cançó d´autor,3
+11,11,paunezz,Pop Folk / Electrònica,Igualada (Anoia),None,41.58130041701771,1.619259502269821,Catalunya,paunezz: Pop Folk / Electrònica,1
+12,12,Impaktats,Rap electrònic,Botarell / Les Borges del Camp (Baix Camp),https://www.youtube.com/watch?v=uNWPliAIbwg,41.17484080561003,1.0149317903985324,Catalunya,Impaktats: Rap electrònic,1
+13,13,Jamaleònics,Mestissatge,Sagunt (Camp de Morvedre),https://www.youtube.com/watch?v=KGr0vCKV-ek,39.684931624822454,-0.27240022279378445,Comunitat Valenciana,Jamaleònics: Mestissatge,2
+14,14,Plombiers,Indie-Pop,Reus (Baix Camp),None,41.155951658921595,1.1122468212649328,Catalunya,Plombiers: Indie-Pop,1
+15,15,Maria Dolors,Rock,Lloret de Mar (Selva),https://www.youtube.com/watch?v=JqUPWRdaU0c,41.70498722285832,2.8490142675285917,Catalunya,Maria Dolors: Rock,1
+16,16,Escarràs,"Mestissatge, ska-fusió",Mallorca (Pla de Mallorca),None,39.6191815343606,2.884518395220353, Pla de Mallorca,"Escarràs: Mestissatge, ska-fusió",0
+17,17,ÒRBITES,indie rock,València (Horta Oest),None,39.47362722640075,-0.36659836353691094,Comunitat Valenciana,ÒRBITES: indie rock,2
+18,18,Zèfir,Indie Pop,El Vendrell (Baix Penedès),https://www.youtube.com/watch?v=kUAG2zaMbQI,41.226234635322974,1.5392447691263647,Catalunya,Zèfir: Indie Pop,1
+19,19,Irieix,Pop contemporani,granollers (Vallès Oriental),https://www.youtube.com/watch?v=7_1-fEEK90o ,41.61580338236219,2.2891768755969633,Catalunya,Irieix: Pop contemporani,1
+20,20,NINOT,Synth-pop,Sitges (Garraf),https://www.youtube.com/watch?v=c43kNX5r-4M,41.24573072358383,1.8246513621129707,Catalunya,NINOT: Synth-pop,1
+21,21,Ingrid,Pop-folk,Vilanova i la Geltrú (Garraf),None,41.23391772294122,1.7277454134317791,Catalunya,Ingrid: Pop-folk,1
+22,22,QANARUSA,FOLK MALLORQUÍ,SENCELLES (Pla de Mallorca),https://www.youtube.com/watch?v=9N8WVukrK_E&t=9s,39.65043209336288,2.8977994899806374, Pla de Mallorca,QANARUSA: FOLK MALLORQUÍ,0
+23,23,Palmira,Pop Rock,Barcelona (Barcelonès),None,41.390385553890944,2.1863806244566955,Catalunya,Palmira: Pop Rock,1
+24,24,Stela Nur,Cançó d'autor,Portbou (Alt Empordà),None,42.435429789481105,3.167534005109268,Catalunya,Stela Nur: Cançó d'autor,1
+25,25,Aina Palà,Pop,Sant Salvador de Guardiola (Bages),None,41.68479967215229,1.7698863453375913,Catalunya,Aina Palà: Pop,1
+26,26,Laura Centellas,Cançó d'autor / Pop melòdic,Vic (Osona),https://www.youtube.com/channel/UCJkGuWDz2lRbWkeAVRY1veA,41.93340425732231,2.2568852753153745,Catalunya,Laura Centellas: Cançó d'autor / Pop melòdic,1
+27,27,Lluna Plena,Pop-rock,Igualada (Anoia),None,41.58547636705471,1.6237306567062744,Catalunya,Lluna Plena: Pop-rock,1
+28,28,Susannes,cantautora rural,Valls (Alt Camp),https://www.youtube.com/watch?v=D2e9CNgXNC8,41.290904684233894,1.255677922720977,Catalunya,Susannes: cantautora rural,1
+29,29,Golíat,Post-tot,Granollers (Vallès Oriental),https://www.youtube.com/watch?v=IAroiXy1MC4,41.61098071937642,2.2934273172161563,Catalunya,Golíat: Post-tot,1
+30,30,Cop de Gràcia,Thrash Metal,Girona (Gironès),None,41.985435471753185,2.8274267870411336,Catalunya,Cop de Gràcia: Thrash Metal,1
+31,31,La mangrana,"Punk, Garage, postpunk, Ebrenc",Deltebre (Baix Ebre),https://www.youtube.com/watch?v=i4pMSn39dIw,40.72850701187364,0.734335077876058,Catalunya,"La mangrana: Punk, Garage, postpunk, Ebrenc",1
+32,32,Metacrani,Heavy Metal,Barcelona i comarques (Barcelonès),None,41.39222382733207,2.1835606748953174,Catalunya,Metacrani: Heavy Metal,1
+33,33,Aeroperro,Indie,Esplugues de Llobregat (Baix Llobregat),https://www.youtube.com/watch?v=9oREBh9iI8s,41.3875569409504,2.097490786220106,Catalunya,Aeroperro: Indie,1
+34,34,L'enemic,Pop/Rock,Manlleu (Osona),https://www.youtube.com/watch?v=1BIqSzgE13w,42.00053424610504,2.293455712604105,Catalunya,L'enemic: Pop/Rock,1
+35,35,Paupiripau,Sí,Parlavà (Baix Empordà),https://www.youtube.com/watch?v=E2NwZtvqbRg,42.02816375757909,3.0357224485793104,Catalunya,Paupiripau: Sí,1
+36,36,Bona Ventura,Disco-Pop,"Pina, Santa Maria del Camí, Esporles i Son Serra de Marina (Pla de Mallorca)",None,40.027046284165046,-0.6502039313878019, Castelló / Castellón,Bona Ventura: Disco-Pop,0
+37,37,Lles,indie-pop,Collbató (Baix Llobregat),None,41.577123778024244,1.832458319058286,Catalunya,Lles: indie-pop,1
+38,38,MIOPS,Pop-Rock,Moià (Moianès) (Bages),https://www.youtube.com/watch?v=LSkw6mgz-CQ&feature=youtu.be,41.8132070314993,2.101494349493076,Catalunya,MIOPS: Pop-Rock,1
+39,39,Lxs Duendes del Parque,Cansautores incendiàries,Arbúcies (Selva),https://www.youtube.com/watch?v=ru9ho_lg_RE,41.82346749358696,2.5176108005381796,Catalunya,Lxs Duendes del Parque: Cansautores incendiàries,1
+40,40,Miquel Gomà,rock,Sabadell (Vallès Occidental),https://www.youtube.com/watch?v=mj6zl_obrLQ,41.548159632389,2.119815668679802,Catalunya,Miquel Gomà: rock,1
+41,41,Som Guineus,Rock català,Badalona (Barcelonès),https://www.youtube.com/watch?v=0WlJLixTkf8,41.454016580785954,2.2546996014858594,Catalunya,Som Guineus: Rock català,1
+42,42,Rels,Rock,Eivissa (Eivissa),None,38.97852673176152,1.4284640935502908, Eivissa,Rels: Rock,0
+43,43,Microhomes,Pop-electrònic,Barcelona (Barcelonès),https://www.youtube.com/watch?v=mmDfUts4jik,41.39208160590281,2.1853294275988353,Catalunya,Microhomes: Pop-electrònic,1
+44,44,Falcon & Firkin,Pop,Manresa (Bages),https://www.youtube.com/watch?v=T4V6L86JQz4,41.73306078856047,1.8307628826074414,Catalunya,Falcon & Firkin: Pop,1
+45,45,Verlaat,Pop,Maó (Menorca),https://www.youtube.com/watch?v=FWShLqf2yPM&feature=youtu.be,39.89442739066751,4.268657277324605, Menorca,Verlaat: Pop,0
+46,46,Kòt Lapè,Cançó d'autor amb banda,Barcelona (Barcelonès),https://www.youtube.com/watch?v=N3B-ifMhEHw,41.38468884317979,2.1824415262666657,Catalunya,Kòt Lapè: Cançó d'autor amb banda,1
+47,47,El Cantautoret,"Autor, Pop/rock",Sueca (Ribera Baixa),https://www.youtube.com/watch?v=k6KC0Fz4oCA,39.20569896786305,-0.3050514478528756,Comunitat Valenciana,"El Cantautoret: Autor, Pop/rock",2
+48,48,SIMI5,Sense definir,Esparreguera (Baix Llobregat),None,41.540307126361746,1.8769370746990774,Catalunya,SIMI5: Sense definir,1
+49,49,Projecte Castor,mestissatge,Vinaròs (Baix Maestrat),https://www.youtube.com/playlist?list=PLhw6b1QRaV8vujrEuZq7boHuyhN34F01v,40.47169695067926,0.48375858617667444, Castelló / Castellón,Projecte Castor: mestissatge,0
+50,50,"Yagmi,The New God",Trap,Terrassa (Vallès Occidental),https://www.youtube.com/channel/UCjhl4DEVlJZg8ejtxuUcxZw?view_as=subscriber,41.57090930272753,2.020226590724577,Catalunya,"Yagmi,The New God: Trap",1
+51,51,Revolusonats,Hip hop fusió,Terrassa (Vallès Occidental),https://www.youtube.com/watch?v=aRvzrjrz4vY,41.56826763744971,2.018898731357703,Catalunya,Revolusonats: Hip hop fusió,1
+52,52,Mama Dousha,Pop,Barcelona (Barcelonès),https://www.youtube.com/watch?v=ujcwQ_c7H2I,41.390542935285225,2.1832172091122963,Catalunya,Mama Dousha: Pop,1
+53,53,Carles Sanahuja,cançó d'autor,Vilafranca del Penedès (Alt Penedès),https://www.youtube.com/watch?v=DittlFvxbh8 ,41.3515556389879,1.7048211161740647,Catalunya,Carles Sanahuja: cançó d'autor,1
+54,54,Xavier Mata,Hip hop,El Prat del Llobregat (Baix Llobregat),https://www.youtube.com/watch?v=1Lt4ttrf3QI,41.32680533155902,2.1043871335044986,Catalunya,Xavier Mata: Hip hop,1
+55,55,Lluc ( a palo seco ),Música d'autor,Sant Carles de la Ràpita (Montsià),None,40.62158165318241,0.5970184394333687,Catalunya,Lluc ( a palo seco ): Música d'autor,1
+56,56,Gran Bèstia,Pop espacial,Barcelona (Garraf),None,41.384414060581825,2.186181147082605,Catalunya,Gran Bèstia: Pop espacial,1
+57,57,Joan Ràfols,Pop Rock,Llorenç del Penedès (Baix Penedès),None,41.29303841852559,1.5545791551816799,Catalunya,Joan Ràfols: Pop Rock,1
+58,58,Noelia Molino,Soul,Vilafranca del Penedès (Alt Penedès),https://www.youtube.com/watch?v=SV-wu1DoJzU,41.35321954335814,1.7094693479888319,Catalunya,Noelia Molino: Soul,1
+59,59,Delta Delta,Pop/rock alternatiu,Sant Feliu de Llobregat (Baix Llobregat),https://www.youtube.com/watch?v=RBBBjXdf6L0,41.39055490661588,2.0497536596094363,Catalunya,Delta Delta: Pop/rock alternatiu,1
+60,60,Et-Co,Fusió,Vendrell (Baix Penedès),https://www.youtube.com/watch?v=M2XkOPZOlmw,41.22535468849897,1.5357062331926605,Catalunya,Et-Co: Fusió,1
+61,61,MADAMME MUSTASH,POP /CANÇÓ D'AUTOR,ROSES (Alt Empordà),https://www.youtube.com/watch?v=eI3kJzf_Nog,42.264182866198546,3.1791792514205635,Catalunya,MADAMME MUSTASH: POP /CANÇÓ D'AUTOR,1
+62,62,KARLA AMB K,Indie-Pop Electrònic,Barcelona (Barcelonès),https://www.youtube.com/watch?v=qnI-oXlIYvQ,41.39173107481738,2.1817374333061097,Catalunya,KARLA AMB K: Indie-Pop Electrònic,1
+63,63,Aiguadolça,Rock pop,Sitges (Garraf),https://www.youtube.com/watch?v=pyfMt1Whg9U&feature=youtu.be,41.23775326091127,1.8316035923997467,Catalunya,Aiguadolça: Rock pop,1
+64,64,Rostoll,Hardcore Punk,Lleida (Segrià),https://www.youtube.com/watch?v=caU_MUmxzGc,41.62224946504287,0.6357839162517495,Catalunya,Rostoll: Hardcore Punk,1
+65,65,Ideal,Pop rock catala,Palafrugell  (Baix Empordà),None,41.92713594345331,3.1699023050911084,Catalunya,Ideal: Pop rock catala,1
+66,66,Enric Casado,Canta Autor,Sueca (Ribera Baixa),None,39.20449514234656,-0.3109383310650429,Comunitat Valenciana,Enric Casado: Canta Autor,2
+67,67,La Ruba,Pop / Rock / Indie,Gandia (Safor),https://www.youtube.com/watch?v=3WijXH5veIQ,38.9729967658482,-0.17964290350476977,Comunitat Valenciana,La Ruba: Pop / Rock / Indie,2
+68,68,Iglú,Indie Pop,Barcelona (Barcelonès),https://www.youtube.com/watch?v=WYfXfG4jKYQ,41.384697257698804,2.1831885210321236,Catalunya,Iglú: Indie Pop,1
+69,69,María González,Pop/pop-rock/indie,L'Hospitalet de Llobregat (Baix Llobregat),None,41.36655406847952,2.1025812702897313,Catalunya,María González: Pop/pop-rock/indie,1
+70,70,Sebastià López Ventura,Pop/ rock,Sils (Gironès),None,41.81535805256112,2.744671609182384,Catalunya,Sebastià López Ventura: Pop/ rock,1
+71,71,Ismael Dueñas,Pop/folk acústic,Badalona (Barcelonès),https://www.youtube.com/watch?v=Q84wqOkYYFw,41.45441527758783,2.255469721410189,Catalunya,Ismael Dueñas: Pop/folk acústic,1
+72,72,MARC CORTADELLES,"Rock, Blues",Reus (Baix Camp),https://www.youtube.com/watch?v=XihX2wNRp4Y,41.15999515646768,1.112151507487139,Catalunya,"MARC CORTADELLES: Rock, Blues",1
+73,73,SATURN,Pop rock estel·lar,Barcelona (Barcelonès),None,41.391577584747644,2.1823714413619912,Catalunya,SATURN: Pop rock estel·lar,1
+74,74,Massiva Cosmo,Rock / Metall Alternatiu,Cubelles (Garraf),https://www.youtube.com/watch?v=zK48dmzNphE,41.210986722215985,1.6798930087164425,Catalunya,Massiva Cosmo: Rock / Metall Alternatiu,1
+75,75,Silah Sirius,Reggae,"Barcelona, Bonastre (Baix Penedès)",None,41.377816917785076,2.165145509271976,Catalunya,Silah Sirius: Reggae,1
+76,76,Opció 2,Rockountryfolk acústic o alguna cosa així,Barcelona (Barcelonès),https://www.youtube.com/watch?v=kDoewivrJVU,41.38356908610558,2.186869180017409,Catalunya,Opció 2: Rockountryfolk acústic o alguna cosa així,1
+77,77,Remei de Ca la Fresca,Dancehall futurista o el que tu vulguis.,Arbúcies (Selva),None,41.819435883457686,2.522647529348342,Catalunya,Remei de Ca la Fresca: Dancehall futurista o el que tu vulguis.,1
+78,78,KGB / Kevin Gomez Bove,pop,tarragona  (Tarragonès),https://www.youtube.com/watch?v=P5mqugcz2Ag,41.11853634649687,1.2558428733438913,Catalunya,KGB / Kevin Gomez Bove: pop,1
+79,79,Eulàlia Guntin Xirinachs,pop-rock intimista,El Prat de Llobregat (Baix Llobregat),None,41.33104868575033,2.1039223557568385,Catalunya,Eulàlia Guntin Xirinachs: pop-rock intimista,1
+80,80,Projecte Júlia,pop rock,Barcelona (Alt Penedès),None,41.391908574233156,2.1782419511259166,Catalunya,Projecte Júlia: pop rock,1
+81,81,Groc,"Pop, Indie-Pop, Indie",Barcelona (Barcelonès),https://www.youtube.com/watch?v=rQ2YdX1IsmU,41.387119029015395,2.1790760362753603,Catalunya,"Groc: Pop, Indie-Pop, Indie",1
+82,82,Noel Biniés,"folkpoprockalternatiu , cançó d'autor",Hostalric (Selva),https://www.youtube.com/user/noelt8xx,41.74836581822015,2.6337541762933068,Catalunya,"Noel Biniés: folkpoprockalternatiu , cançó d'autor",1
+83,83,OnzePM,Indie Rock,Barcelona (Barcelonès),https://www.youtube.com/watch?v=CUrkACOfjsA,41.38589702437025,2.1785127713130708,Catalunya,OnzePM: Indie Rock,1
+84,84,Bouzouki dance BETA,Pink punk,Barcelona (Barcelonès),https://www.youtube.com/watch?v=_dwc3N0hINI,41.390772347913675,2.1859720584084763,Catalunya,Bouzouki dance BETA: Pink punk,1
+85,85,Enric EZ,"Cantautor, mediterrani, pop, àfrica, jazz, soul. Life music",Santa Maria de Palautordera (Vallès Oriental),https://www.youtube.com/watch?v=DJ_HFjwytts,41.69870554016723,2.450406313621385,Catalunya,"Enric EZ: Cantautor, mediterrani, pop, àfrica, jazz, soul. Life music",1
+86,86,GUILLOLA,pop/rock alternatiu,Figueres (Alt Empordà),https://www.youtube.com/watch?v=9vQNi8v4OWg,42.275881684346196,2.9735149837872523,Catalunya,GUILLOLA: pop/rock alternatiu,1
+87,87,EL TIO LA CARETA,ROCK ALTERNATIU,VALÈNCIA (València),None,39.4762311110829,-0.37107930053131644,Comunitat Valenciana,EL TIO LA CARETA: ROCK ALTERNATIU,2
+88,88,Lia Sampai,Cançó d'autor,Cerdanyola del Vallès (Vallès Occidental),https://www.youtube.com/watch?v=6QFIM-iqUWg,41.4966158040416,2.141490535327851,Catalunya,Lia Sampai: Cançó d'autor,1
+89,89,Joa Lwest,"Pop, Folk",Rubí (Vallès Occidental),None,41.49570853881584,2.0383956083407395,Catalunya,"Joa Lwest: Pop, Folk",1
+90,90,Sempre Amunt,Pop / musica d'Autor / Rumba,Barcelona (Barcelonès),https://www.youtube.com/watch?v=XGArQD7mGDo&feature=youtu.be,41.38742271363779,2.178928052308866,Catalunya,Sempre Amunt: Pop / musica d'Autor / Rumba,1
+91,91,Les Buch,Punk rock,Terrassa (Vallès Occidental),https://www.youtube.com/watch?v=MVMAb5uD13Y,41.56939174409824,2.0142609501510456,Catalunya,Les Buch: Punk rock,1
+92,92,David Ràfols,Pop-Rock,Vilafranca del Penedès  (Alt Penedès),None,41.35061683669887,1.704734149874376,Catalunya,David Ràfols: Pop-Rock,1
+93,93,Marina Freixas,Pop intimista,Igualada (Anoia),None,41.57953929020371,1.6236475613038641,Catalunya,Marina Freixas: Pop intimista,1
+94,94,La Corda Fluixa,Pop Folk,Puigcerdà (Cerdanya),https://www.youtube.com/watch?v=nCHFnpotxiM,42.43526060047597,1.9299254918206477,Catalunya,La Corda Fluixa: Pop Folk,1
+95,95,LEGENDARI,Folk rock,Palau Solità i Plegamans (Vallès Occidental),https://www.youtube.com/watch?v=QpxKdWNQ8Iw,41.58759915904471,2.184600796531141,Catalunya,LEGENDARI: Folk rock,1
+96,96,Eva González Menal,"personal: soul, indie, acústic, música medicina, instrumental, experimental... amb ganes sempre de provar nous sons i instruments.",Ripollet (Barcelonès),https://www.youtube.com/watch?v=-QhsjAP6Uvk,41.50095067718312,2.166110384692836,Catalunya,"Eva González Menal: personal: soul, indie, acústic, música medicina, instrumental, experimental... amb ganes sempre de provar nous sons i instruments.",1
+97,97,Sequoia,Indie Folk,Barcelona (Barcelonès),https://www.youtube.com/watch?v=JVGNyPv_6ko,41.387982848173664,2.1804273033001933,Catalunya,Sequoia: Indie Folk,1
+98,98,Punkgrossos,PunkRock,Barcelona (Barcelonès),None,41.38653330338531,2.1836702538620645,Catalunya,Punkgrossos: PunkRock,1
+99,99,FA1NA,Fusió de rumba catalana i flamenca,Mollerussa (Pla d'Urgell),https://www.youtube.com/watch?v=rAHMKxRhGng,41.6380241959153,0.8995397514877649,Catalunya,FA1NA: Fusió de rumba catalana i flamenca,1
+100,100,Carla Font,Pop,Lleida (Segrià),https://www.youtube.com/watch?v=iwpYLfVrmUM&feature=youtu.be,41.61620503711217,0.630064950367748,Catalunya,Carla Font: Pop,1
+101,101,David Martí,Pop d'autor,Castellfollit del Boix  (Bages),None,41.6686741093645,1.6933718464853675,Catalunya,David Martí: Pop d'autor,1
+102,102,Efímer,Pop,Vic (Osona),https://www.youtube.com/channel/UCd1e7TjzZGHbriMGkcbVslQ/videos,41.93211188775773,2.2635747142656855,Catalunya,Efímer: Pop,1
+103,103,Màresan,Pop-Folk,La Ràpita (Montsià),https://www.youtube.com/watch?v=DxyZHRPENcU&t=108s,39.91707054197069,-0.22991493157160295,Comunitat Valenciana,Màresan: Pop-Folk,2
+104,104,Laura Esparza i Carlos Esteban,Indie folk,València (València),https://www.youtube.com/watch?v=q6bNMrhsAeQ,39.470725456837194,-0.37092590147944465,Comunitat Valenciana,Laura Esparza i Carlos Esteban: Indie folk,2
+105,105,Marco Pompero,Indie folk mediterrani,Alcoi (Alcoi),https://www.youtube.com/watch?v=bQj2SSUvaG8,38.69836108852163,-0.4702660929083514,Comunitat Valenciana,Marco Pompero: Indie folk mediterrani,2
+106,106,Laura Jareño,"bossa nova, cantautor,  pop",Santa Coloma de Gramenet (Barcelonès),None,41.45292350431851,2.210124886891828,Catalunya,"Laura Jareño: bossa nova, cantautor,  pop",1
+107,107,Estepes,Rockelectrocústic,Lloseta (Raiguer),None,39.72011235468531,2.8758303348408454,Illes Balears,Estepes: Rockelectrocústic,3
+108,108,Maüpas,Cançó d'autor,Sabadell (Barcelonès),https://www.youtube.com/watch?v=jSWrWouRbAg&feature=youtu.be,41.54598620651563,2.114881876334429,Catalunya,Maüpas: Cançó d'autor,1
+109,109,Saüc en flor,Folk silvestre,Pineda de Mar (Barcelonès),https://www.youtube.com/watch?v=PcAQooSjS-o&t=5s,41.63272139325636,2.6977876544214934,Catalunya,Saüc en flor: Folk silvestre,1
+110,110,Vèrtex Buit,Cançó d'autor / Rock alternatiu,Golmés (Pla d'Urgell),None,41.64242755665485,0.935109097558684,Catalunya,Vèrtex Buit: Cançó d'autor / Rock alternatiu,1
+111,111,NICÒMAC,Rock simfònic,Badalona (Barcelonès),None,41.45671993880761,2.2554806466035506,Catalunya,NICÒMAC: Rock simfònic,1
+112,112,Kàfkia,Rock alternatiu,La Cellera de Ter (Selva),https://www.youtube.com/watch?v=cTfWMNNQewc,41.97602497506607,2.6238247512632475,Catalunya,Kàfkia: Rock alternatiu,1
+113,113,Ego,"Rock, punk, funk, electrònica",Lleida (Segrià),https://www.youtube.com/watch?v=CJAwpfJz1co,41.62342982539695,0.6358100498058549,Catalunya,"Ego: Rock, punk, funk, electrònica",1
+114,114,PROJECTE MAU,Rock - Folck,SARRIÀ DE TER - (GIRONA) (Gironès),None,42.01912126853828,2.823601448332864,Catalunya,PROJECTE MAU: Rock - Folck,1
+115,115,Koalanú,Rock Indie Reggae,Figueres (Alt Empordà),None,42.2690152322712,2.9719581420223213,Catalunya,Koalanú: Rock Indie Reggae,1
+116,116,Hugkakke,música urbana,Igualada (Anoia),https://www.youtube.com/watch?v=0tGL_gBGls8,41.58687489260021,1.619628215451111,Catalunya,Hugkakke: música urbana,1
+117,117,Massaviu,Pop alternatiu i música urbana,Cardedeu i Sant Esteve de Palautordera (Vallès Oriental),https://www.youtube.com/channel/UCh1_-QpgzIdG-3QfCMfZi6w,41.638584822390335,2.3579463818874675,Catalunya,Massaviu: Pop alternatiu i música urbana,1
+118,118,BELZONI,Pop-Rock,El Masnou (Maresme),None,41.48384078912455,2.3210976187865713,Catalunya,BELZONI: Pop-Rock,1
+119,119,Kim the Mowgli,Pop Rock,Andorra la vella (Baix Camp),None,42.51085351273221,1.5311025180276878,AndorralaVella,Kim the Mowgli: Pop Rock,4
+120,120,SKÉLETORS,Rock-Metall,Girona (Gironès),https://www.youtube.com/watch?v=52r-wvlDraw,41.979715391155736,2.827432960469865,Catalunya,SKÉLETORS: Rock-Metall,1
+121,121,Malson Atmosfèric,"Rap, Trap, Hip/Hop, Urban",Sant Julià de Ramis (Gironès),https://www.youtube.com/watch?v=Q2aeYV3Xucs,42.02856659226786,2.8543670161338417,Catalunya,"Malson Atmosfèric: Rap, Trap, Hip/Hop, Urban",1
+122,122,Pol Bordas,Música Urbana,Girona (Gironès),https://www.youtube.com/watch?v=FOZrYjFAidU,41.98842363453595,2.82528455668149,Catalunya,Pol Bordas: Música Urbana,1
+123,123,Saüc,Rock / Rock dur / Metal alternatiu,Balaguer (Noguera),https://www.youtube.com/watch?v=c-KH8tAP0I0,41.79235127377231,0.8110488016905792,Catalunya,Saüc: Rock / Rock dur / Metal alternatiu,1
+124,124,Sabana,Pop,Granollers (Vallès Oriental),None,41.614227500187,2.2960162991290587,Catalunya,Sabana: Pop,1
+125,125,Tomeu Juan Fuster,Cançó d'autor,Palma de Mallorca (Palma),None,39.573989795519005,2.6582513844824254,Illes Balears,Tomeu Juan Fuster: Cançó d'autor,3
+126,126,WAN HU,Pop-Folk-Indie,Barcelona (Barcelonès),https://www.youtube.com/watch?v=NRjW4ifxbRY,41.388642148002724,2.1867877691390847,Catalunya,WAN HU: Pop-Folk-Indie,1
+127,127,Marian,Pop-rock.,Santa Eulàlia de Riuprimer (Osona),https://www.youtube.com/watch?v=weOLhEcIc-0,41.91660311927646,2.1977633864419537,Catalunya,Marian: Pop-rock.,1
+128,128,Lalo Garau,Pop,Palma (Palma),https://www.youtube.com/watch?v=cG3wAXFYALU,39.5729345822463,2.6571096836174206,Illes Balears,Lalo Garau: Pop,3
+129,129,Saó,Fusió de músiques brasileres i llatines en català,Barcelona (Barcelonès),https://www.youtube.com/channel/UCPUd7QF_Jj9Xm1kqDZ2txrQ,41.38592263297799,2.183107335774838,Catalunya,Saó: Fusió de músiques brasileres i llatines en català,1
+130,130,Abast,Pop/Música de cantautor,Barcelona (Barcelonès),None,41.391223902376744,2.178441942269187,Catalunya,Abast: Pop/Música de cantautor,1
+131,131,Cuarto Segunda,Rap amb banda,"Lleida, Les Franqueses del Vallès, l'Ametlla i La Garriga. (Vallès Oriental)",https://www.youtube.com/watch?v=4_83piwLTzw,41.622907679492826,0.6287077039091676,Catalunya,Cuarto Segunda: Rap amb banda,1
+132,132,Terra Ferma,"Ska Fusió, mescla de l'ska més clàssic amb rock, reggae i hip-hop.",Reus (Baix Camp),https://www.youtube.com/watch?v=tA8Ybx56aGQ,41.15720362229701,1.1167685378393644,Catalunya,"Terra Ferma: Ska Fusió, mescla de l'ska més clàssic amb rock, reggae i hip-hop.",1
+133,133,Musclu,Pop electrònic,Barcelona (Barcelonès),https://www.youtube.com/watch?v=Wc4UkCt8xuI,41.391366131493164,2.1810039018512817,Catalunya,Musclu: Pop electrònic,1
+134,134,Pol Cortés,Pop,Sant Cugat del Vallès - Barcelona (Barcelonès),None,41.48282145418637,2.084098777884684,Catalunya,Pol Cortés: Pop,1
+135,135,Sense Nom,Pop - Rock - Rumba catalana,Cornellà de Llobregat (Baix Llobregat),https://www.youtube.com/watch?v=AJ6WYgl16Xc,41.356328239907974,2.0762805811627727,Catalunya,Sense Nom: Pop - Rock - Rumba catalana,1
+136,136,Cala Joia,Cantautor,Ciutadella de Menorca (Menorca),https://www.youtube.com/watch?v=hSz9IsC2TLA,40.00548535515389,3.845178889454155, Menorca,Cala Joia: Cantautor,0
+137,137,Cat Vicens,Folk acústic/cançó d'autor,Viladecans (Baix Llobregat),None,41.321743085379644,2.019086254825209,Catalunya,Cat Vicens: Folk acústic/cançó d'autor,1
+138,138,MON,Pop-Rock,Blanes (Selva),None,41.68306791799717,2.793667052424894,Catalunya,MON: Pop-Rock,1
