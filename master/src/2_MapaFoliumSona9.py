@@ -10,17 +10,24 @@ import os
 os.chdir("C:/Users/Carles/Desktop/DatathonGithub/Sona9-2020/master/src")
 import sys
 sys.path.insert(0,'folium')
+#pyproj_datadir="C:/Users/Carles/Anaconda3/Library/share"
 
+# =============================================================================
+# import pyproj
+# pyproj.Proj("+init=epsg:4326")
+# 
+# =============================================================================
 import folium
 import folium.plugins
 import folium
 import pandas as pd
 from config import paths
-from folium.features import *
-from xml.etree import ElementTree
 from folium.plugins import MarkerCluster
-
-         
+from folium.plugins import Search
+from shapely.geometry import Point
+from geopandas import GeoDataFrame
+from jinja2 import Template
+from branca.element import (Element, Figure, JavascriptLink, MacroElement)
 class DivIcon(MacroElement):
     def __init__(self, html='', size=(30,30), anchor=(0,0), style=''):
         """TODO : docstring here"""
@@ -66,6 +73,10 @@ def main():
     ############### Work Order #########################
     #0. Reading Dataframe 
     df = pd.read_csv(Reading_path, encoding='utf-8-sig')
+    geometry = [Point(xy) for xy in zip(df.lon, df.lat)]
+
+    crs = {'init': 'epsg:4326'}
+    gdf = GeoDataFrame(df.drop(['lon', 'lat'], axis=1), crs=crs, geometry=geometry)
     #1. Creating a Map using Folium
     map_ = folium.Map(location=[df.iloc[0]['lat'], df.iloc[0]['lon']], 
                       tiles='OpenStreetMap',
@@ -109,19 +120,45 @@ def main():
                         """
                 )).add_to(marker_cluster2)
            
-           legend_html = """
-                         <div style="position: fixed; 
-                         bottom: 50px; right: 50px; width: 100px; height: 60px; 
-                         border:2px solid grey; z-index:9999; font-size:14px;
-                         background-color:white;
-                         ">&nbsp; <b>Llegenda</b> <br>
-                         &nbsp; Grup &nbsp; <img src="https://img.icons8.com/windows/32/000000/progressive-rock.png"><br>
-                          </div>
-                         """
-           map_.get_root().html.add_child(folium.Element(legend_html))
-           
+    legend_html = """
+                     <div style="position: fixed; 
+                     bottom: 50px; right: 50px; width: 100px; height: 60px; 
+                     border:2px solid grey; z-index:9999; font-size:14px;
+                     background-color:white;
+                     ">&nbsp; <b>Llegenda</b> <br>
+                     &nbsp; Grup &nbsp; <img src="https://img.icons8.com/windows/32/000000/progressive-rock.png"><br>
+                      </div>
+                     """
+    map_.get_root().html.add_child(folium.Element(legend_html))
+
+    style_function = lambda x: {
+                                'color': 'black',
+                                'weight':2,
+                                'fillOpacity':0.5
+                                }
+
+    NomdelGrup_check = folium.GeoJson(gdf,
+                        name="NomdelGrup",
+                        style_function=style_function,
+                        tooltip=folium.GeoJsonTooltip(
+                            fields=['NomdelGrup'],
+                            aliases=['NomdelGrup'], 
+                            localize=True
+                        )
+                    ).add_to(map_)
+                        
+    Search(
+                        layer=NomdelGrup_check,
+                        geom_type='Point',
+                        placeholder='Busca el teu Grup de Música',
+                        collapsed=False,
+                        
+                        search_label='NomdelGrup'
+                        ).add_to(map_)
+    folium.LayerControl().add_to(map_)                       
     #3. Saving the Result Map in the output path
     map_.save(OutputMap_Path)
+    
     return None
 
 

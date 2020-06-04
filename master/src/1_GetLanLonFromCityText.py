@@ -21,10 +21,11 @@ def ManualAddings(df):
     df.loc[df.NomdelGrup =="Bona Ventura", 'URLvideoYoutube']= "https://youtu.be/JO_fDelmWfk"
     df.loc[df.NomdelGrup =="Bona Ventura", 'lat']= 39.69
     df.loc[df.NomdelGrup =="Bona Ventura", 'lon']= 2.78
-    df.loc[df.NomdelGrup =="Marèsan", 'lat']= 40.620200
-    df.loc[df.NomdelGrup =="Marèsan", 'lon']= 0.592890
+    df.loc[df.NomdelGrup =="Màresan", 'lat']= 40.620200
+    df.loc[df.NomdelGrup =="Màresan", 'lon']= 0.592890
     df.loc[df.NomdelGrup =="Estiula", 'lat']= 42.196390
     df.loc[df.NomdelGrup =="Estiula", 'lon']= 2.303340
+    df.loc[df.NomdelGrup =="Projecte Castor", 'URLvideoYoutube']= "https://www.youtube.com/watch?v=tzE2cef32OM&list=PLhw6b1QRaV8vlhXBLjhYpRlb_z0dQjgn_"
     
 
     return df
@@ -93,8 +94,8 @@ def StringTreatment(df):
     df.loc[df.Region ==" Illes Balears", 'Region'] = "Illes Balears"
     df.loc[df.Region ==" Menorca", 'Region'] = "Illes Balears"
     df.loc[df.Region ==" Eivissa", 'Region'] = "Illes Balears"
-    df.loc[df.Region =="  Pla de Mallorca", 'Region'] = "Illes Balears"
-    df.loc[df.Region =="  Llevant", 'Region'] = "Illes Balears"
+    df.loc[df.Region ==" Pla de Mallorca", 'Region'] = "Illes Balears"
+    df.loc[df.Region ==" Llevant", 'Region'] = "Illes Balears"
 
 
     return df
